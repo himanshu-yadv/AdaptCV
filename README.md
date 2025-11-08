@@ -53,4 +53,4 @@ dependencies = [
     "unstructured>=0.17.2",
 ]
 
-pip install -r requirements.txt //To install all dependencies
+uv sync //To install all dependencies
