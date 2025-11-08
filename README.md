@@ -54,8 +54,6 @@ dependencies = [
 ]
 
 To install all dependencies:
-
-```sh
 uv sync
 ```
 
