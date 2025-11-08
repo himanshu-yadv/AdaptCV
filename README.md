@@ -53,11 +53,18 @@ dependencies = [
     "unstructured>=0.17.2",
 ]
 
-uv sync //To install all dependencies
+To install all dependencies:
+
+```sh
+uv sync
 ```
-```Run the Project
+
+## Run the Project
+
+```sh
 uv run main.py
 ```
-###Usage
+
+## Usage
 * Provide your existing resume file and the job posting URL directly in the chat interface.
-* open the resume.html file in the browser to see the rendered resume
+* Open the `resume.html` file in your browser to view the rendered resume.
