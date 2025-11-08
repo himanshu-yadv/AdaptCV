@@ -54,3 +54,10 @@ dependencies = [
 ]
 
 uv sync //To install all dependencies
+```
+```Run the Project
+uv run main.py
+```
+###Usage
+* Provide your existing resume file and the job posting URL directly in the chat interface.
+* open the resume.html file in the browser to see the rendered resume
