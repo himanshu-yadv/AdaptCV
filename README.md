@@ -53,5 +53,4 @@ dependencies = [
     "unstructured>=0.17.2",
 ]
 
-# We assume you have a 'requirements.txt' created from 'pyproject.toml'
-pip install -r requirements.txt
+pip install -r requirements.txt //To install all dependencies
