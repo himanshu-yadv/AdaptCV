@@ -1,5 +1,5 @@
-[project]
-name = "Better-Resume"
+[Project]
+name = "AdaptCV"
 version = "0.1.0"
 description = "LlamaIndex WOrkflow to create a better resume, customized for specific job application."
 readme = "README.md"
